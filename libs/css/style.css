@@ -1,0 +1,67 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  margin-top: 2rem;
+}
+
+.add-new {
+  margin-top: 2rem;
+}
+
+/* .add-btn:nth-child(0) {
+  margin-left: 2rem;
+} */
+
+#table-body,
+th {
+  cursor: pointer;
+}
+
+#deptDropDown li {
+  padding-left: 10px;
+  padding-right: 10px;
+  cursor: pointer;
+}
+
+.error {
+  background: #f2dede;
+  color: #a94442;
+  padding: 10px;
+  width: 95%;
+  border-radius: 5px;
+  margin: 20px auto;
+}
+
+#loader {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  background: url("../img/loader.gif") 50% 50% no-repeat #fff;
+  opacity: 1;
+  display: block;
+  /* background-position: center; */
+}
+
+tbody {
+  display: block;
+  height: 60vh;
+  overflow: auto;
+}
+
+thead,
+tbody tr {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+tbody {
+  overflow-x: hidden;
+}
