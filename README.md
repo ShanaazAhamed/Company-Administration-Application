@@ -11,7 +11,7 @@ This is a simple CRUD application that uses HTML5,JS,CSS and BootStrap5 for the 
 ```
 The following video shows a demonstration of the features provided by the application.
 
-
+https://user-images.githubusercontent.com/77115237/196280472-c419e297-cbe5-4a1a-96ca-84b2be3fd8a3.mp4
 
 ## Steps to follow before using: 
 Create a database and import the MySQL file from `libs/sql/companydirectory.sql`.
