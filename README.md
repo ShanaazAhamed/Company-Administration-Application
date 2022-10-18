@@ -21,7 +21,7 @@ Make changes to the following lines of the configuration file `libs/php/config.p
     $cd_user = "root";              // your sql username
     $cd_password = "";              // your password
  ```
-
+***
 ### Run it on your localhost server
 ### Enjoy 😊
 
