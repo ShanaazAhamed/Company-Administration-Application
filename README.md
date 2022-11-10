@@ -9,7 +9,15 @@ This is a simple CRUD application that uses HTML5,JS,CSS and BootStrap5 for the 
 5. Edit employee,department and location
 6. Search feature
 ```
-The following video shows a demonstration of the features provided by the application.
+
+## Used Technologies
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,js,mysql,php" />
+</p>
+
+***
+
+### The following video shows a demonstration of the features provided by the application.
 
 https://user-images.githubusercontent.com/77115237/196280472-c419e297-cbe5-4a1a-96ca-84b2be3fd8a3.mp4
 
