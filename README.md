@@ -12,7 +12,7 @@ This is a simple CRUD application that uses HTML5,JS,CSS and BootStrap5 for the 
 
 ## Used Technologies
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,jquery,js,mysql,php" />
+    <img src="https://skillicons.dev/icons?i=html,js,jquery,mysql,php" />
 </p>
 
 ***
