@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/77115237/196280472-c419e297-cbe5-4a1a-
 ## Steps to follow before using: 
 Create a database and import the MySQL file from `libs/sql/companydirectory.sql`.
 Make changes to the following lines of the configuration file `libs/php/config.php`.
- ```
+ ```php
     $cd_dbname = "companydirectory"; // your database name
     $cd_user = "root";              // your sql username
     $cd_password = "";              // your password
